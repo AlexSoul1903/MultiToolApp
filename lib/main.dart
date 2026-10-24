@@ -7,8 +7,6 @@ import 'NavBar.dart';
 import 'Views/Clima.dart';
 import 'Views/Contratame.dart';
 
-//AlexSoul1903.
-//DEMO-ID.
 
 void main() {
   runApp(const MyApp());
